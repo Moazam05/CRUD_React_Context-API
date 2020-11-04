@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Moazam05/CRUD_React_Context-API/static/css/main.0888ce2d.chunk.css",
+    "main.js": "/Moazam05/CRUD_React_Context-API/static/js/main.0259f313.chunk.js",
+    "main.js.map": "/Moazam05/CRUD_React_Context-API/static/js/main.0259f313.chunk.js.map",
+    "runtime-main.js": "/Moazam05/CRUD_React_Context-API/static/js/runtime-main.afcc1d7b.js",
+    "runtime-main.js.map": "/Moazam05/CRUD_React_Context-API/static/js/runtime-main.afcc1d7b.js.map",
+    "static/js/2.fa599a19.chunk.js": "/Moazam05/CRUD_React_Context-API/static/js/2.fa599a19.chunk.js",
+    "static/js/2.fa599a19.chunk.js.map": "/Moazam05/CRUD_React_Context-API/static/js/2.fa599a19.chunk.js.map",
+    "static/js/3.599b69a9.chunk.js": "/Moazam05/CRUD_React_Context-API/static/js/3.599b69a9.chunk.js",
+    "static/js/3.599b69a9.chunk.js.map": "/Moazam05/CRUD_React_Context-API/static/js/3.599b69a9.chunk.js.map",
+    "index.html": "/Moazam05/CRUD_React_Context-API/index.html",
+    "static/css/main.0888ce2d.chunk.css.map": "/Moazam05/CRUD_React_Context-API/static/css/main.0888ce2d.chunk.css.map",
+    "static/js/2.fa599a19.chunk.js.LICENSE.txt": "/Moazam05/CRUD_React_Context-API/static/js/2.fa599a19.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.afcc1d7b.js",
+    "static/js/2.fa599a19.chunk.js",
+    "static/css/main.0888ce2d.chunk.css",
+    "static/js/main.0259f313.chunk.js"
+  ]
+}
